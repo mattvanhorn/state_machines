@@ -4,6 +4,8 @@
 
 State Machines adds support for creating state machines for attributes on any Ruby class.
 
+It is a continuation of the project started at https://github.com/pluginaweek/state_machine, which seems to be abandoned. 
+
 *Please note that multiple integrations are available for [Active Model](https://github.com/state-machines/state_machines-activemodel), [Active Record](https://github.com/state-machines/state_machines-activerecord), [Mongoid](https://github.com/state-machines/state_machines-mongoid) and more in the [State Machines organisation](https://github.com/state-machines).*  If you want to save state in your database, **you need one of these additional integrations**.
 
 ## Installation
